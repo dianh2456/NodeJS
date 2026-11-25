@@ -2,7 +2,7 @@
 
 ## 1. Thông tin sinh viên
 
-- Họ và tên: Điền họ tên sinh viên
+- Họ và tên: Nguyễn Lê Duy Anh
 - Mã sinh viên: CD-CNTT18A03
 - Ngành: Công nghệ thông tin
 - Môn học: NodeJS
