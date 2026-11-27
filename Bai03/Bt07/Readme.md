@@ -62,7 +62,8 @@ Web Server chạy tại địa chỉ:
 
 **Hình ảnh khởi động Web Server:**
 
-![Khởi động Web Server](images/01_Terminal.png)
+<img width="616" height="163" alt="01_Terminal" src="https://github.com/user-attachments/assets/b3eb5bfb-d87c-479d-a762-bc94b6203d79" />
+
 
 ### Bước 3: Kiểm tra chức năng hiển thị lời chào
 
@@ -74,7 +75,8 @@ Kết quả:
 
     Xin chào Duy Anh
 
-![Hiển thị lời chào](images/02_Hello.png)
+<img width="805" height="161" alt="02_Hello" src="https://github.com/user-attachments/assets/459d98f4-9e4a-46a7-bef6-2f5f69f2b769" />
+
 
 ### Bước 4: Kiểm tra chức năng tính tổng
 
@@ -86,7 +88,8 @@ Kết quả:
 
     Tổng = 30
 
-![Tính tổng hai số](images/03_Sum.png)
+<img width="475" height="120" alt="03_Sum" src="https://github.com/user-attachments/assets/df998acb-9a1b-4da8-a632-8a5e19083bb7" />
+
 
 ### Bước 5: Kiểm tra lỗi thiếu tham số
 
@@ -98,7 +101,8 @@ Kết quả:
 
     Lỗi: Thiếu tham số a hoặc b!
 
-![Lỗi thiếu tham số](images/04_LoiThamSo.png)
+<img width="397" height="145" alt="04_LoiThamSo" src="https://github.com/user-attachments/assets/46e10858-9b68-4501-a6a6-c66a3f62a058" />
+
 
 ### Bước 6: Kiểm tra lỗi giá trị không hợp lệ
 
@@ -109,8 +113,9 @@ Truy cập:
 Kết quả:
 
     Lỗi: Giá trị a hoặc b không hợp lệ!
+<img width="418" height="134" alt="05_LoiGiaTri" src="https://github.com/user-attachments/assets/faa0b941-e04d-44c8-a6f8-b8a9e0cf9224" />
 
-![Lỗi giá trị không hợp lệ](images/05_LoiGiaTri.png)
+
 
 ## 6. Kết quả thực hiện
 
