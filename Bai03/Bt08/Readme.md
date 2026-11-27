@@ -30,19 +30,23 @@ node bai08.js
 
 ### 5.1. Mã nguồn chương trình
 
-![Mã nguồn](images/01_Code.png)
+<img width="809" height="745" alt="01_Code" src="https://github.com/user-attachments/assets/44ebff54-8c91-4696-b14f-154e2c0ff542" />
+
 
 ### 5.2. Kết quả chạy trên Terminal
 
-![Kết quả Terminal](images/02_Terminal.png)
+<img width="529" height="259" alt="02_Terminal" src="https://github.com/user-attachments/assets/3fe52432-2487-4b0d-a11d-7b6d214f6956" />
+
 
 ### 5.3. Nội dung tập tin sau khi đổi tên
 
-![Nội dung ghi chú](images/03_GhiChu.png)
+<img width="435" height="152" alt="03_GhiChu" src="https://github.com/user-attachments/assets/0215a583-f894-4689-8233-5432af6209b7" />
+
 
 ### 5.4. Cấu trúc thư mục sau khi chạy
 
-![Cấu trúc thư mục](images/04_ThuMuc.png)
+<img width="289" height="67" alt="04_ThuMuc" src="https://github.com/user-attachments/assets/3ba3ae86-91ec-4140-9b58-024f43767898" />
+
 
 ## 6. Kết quả đạt được
 
