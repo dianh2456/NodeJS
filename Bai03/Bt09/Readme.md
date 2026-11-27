@@ -85,19 +85,22 @@ students.find({}).toArray();
 
 ### 7.1. Mã nguồn chương trình bai09.js
 
-![Mã nguồn chương trình](images/01_Code.png)
+<img width="820" height="737" alt="01_Code" src="https://github.com/user-attachments/assets/889fc070-8138-44bd-aa1f-19ca03487408" />
+
 
 ### 7.2. Kết nối MongoDB và thêm 5 sinh viên mẫu
 
-![Danh sách 5 sinh viên](images/02_ThemSinhVien.png)
+<img width="457" height="231" alt="02_ThemSinhVien" src="https://github.com/user-attachments/assets/5cc2dedf-5990-420a-ac66-f16116e285d8" />
 
 ### 7.3. Kết quả thực hiện deleteOne() và deleteMany()
 
-![Kết quả xóa sinh viên](images/03_KetQua.png)
+<img width="472" height="217" alt="03_KetQua" src="https://github.com/user-attachments/assets/ff964cdd-e469-43ed-bfb2-b86f5beae5e3" />
+
 
 ### 7.4. Kiểm tra dữ liệu trong MongoDB Compass
 
-![Kết quả MongoDB Compass](images/04_Compass.png)
+<img width="957" height="295" alt="04_Compass" src="https://github.com/user-attachments/assets/3ca7d042-9e7a-44f2-a102-dcc39cc9cd58" />
+
 
 ## 8. Kết quả cuối cùng
 
